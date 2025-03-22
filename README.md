@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Adrian (@adrn)
 
-I am an associate research scientist (ARS) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics) where I help lead the Nearby Universe group and study the structure and dynamics of stars and dark matter in our galaxy (the Milky Way 🌌). I am also the Assistant Director of Scientific Software at the [Simons Foundation](https://www.simonsfoundation.org/), and am on the [Astropy](https://github.com/astropy/astropy) Coordination Committee. I do much more 👨🏽‍💻 than 🔭!
+I am an associate research scientist (ARS) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics) where I lead the Nearby Universe group. We study the structure and dynamics of stars and dark matter in our galaxy (the Milky Way 🌌). I am also the Assistant Director of Scientific Software at the [Simons Foundation](https://www.simonsfoundation.org/), and was formerly on the [Astropy](https://github.com/astropy/astropy) Coordination Committee. I do much more 👨🏽‍💻 than 🔭!
 
 - 🕸️ [Personal website](https://adrian.pw)
 - 👥 [CCA Nearby Universe Group](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/dynamics/)
